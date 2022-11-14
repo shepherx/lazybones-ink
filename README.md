@@ -1,7 +1,8 @@
-# jaren-got-dick
+# lazy bones ink
+## jaren vonzombie & ian shepherd tattoo shop and llc
+### ig @ol_lerrorl_lo or @jaronvonzombie and ig @_shepherx or @thebestmfcatuknow
 
-This template should help get you started developing with Vue 3 in Vite.
-
+*** web app written in vue.js for tattoo shops in the the valley around phoenix AZ ***
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
